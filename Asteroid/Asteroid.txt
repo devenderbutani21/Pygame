@@ -1,0 +1,11 @@
+Game Made by Devender Butani
+Tutorial to learn Pygame
+For more help refer to : https://www.cs.ucsb.edu/~pconrad/cs5nm/topics/pygame/drawing/
+Link : https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
+Background Music : maxstack
+Link : https://opengameart.org/content/through-space
+Space Shooter Pack : Kenney
+Link : https://opengameart.org/content/space-shooter-redux
+Background Image : Rawdanitsu
+Link : https://opengameart.org/content/space-backgrounds-3
+
